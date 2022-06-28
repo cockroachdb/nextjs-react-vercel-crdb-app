@@ -1,8 +1,8 @@
-# Next.js with react-bootstrap example
+# Next.js with react-bootstrap example application
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This CockroachDB sample application shows how to use Next.js along with [react-bootstrap](https://react-bootstrap.github.io/). The full instructions are available via [https://www.cockroachlabs.com/blog/LINK](https://www.cockroachlabs.com/blog/LINK).
+This CockroachDB sample application shows how to use Next.js along with [react-bootstrap](https://react-bootstrap.github.io/). The full instructions are available via [https://www.cockroachlabs.com/blog/tutorial-nextjs-vercel-cockroachdb/](https://www.cockroachlabs.com/blog/tutorial-nextjs-vercel-cockroachdb/).
 
 ## Deploy your own
 
